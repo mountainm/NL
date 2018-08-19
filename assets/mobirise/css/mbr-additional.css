@@ -81,7 +81,7 @@ h6,
   background-color: #2b0680 !important;
 }
 .bg-info {
-  background-color: #7e9b9f !important;
+  background-color: #c1c1c1 !important;
 }
 .bg-warning {
   background-color: #f3c649 !important;
@@ -130,8 +130,8 @@ h6,
   border-color: #94ada8 !important;
 }
 .btn-info {
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #c1c1c1;
+  border-color: #c1c1c1;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -140,14 +140,14 @@ h6,
 .btn-info:active,
 .btn-info.active {
   color: #ffffff;
-  background-color: #597478;
-  border-color: #597478;
+  background-color: #9b9b9b;
+  border-color: #9b9b9b;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #597478 !important;
-  border-color: #597478 !important;
+  background-color: #9b9b9b !important;
+  border-color: #9b9b9b !important;
 }
 .btn-success {
   background-color: #2b0680;
@@ -251,8 +251,8 @@ h6,
 }
 .btn-info-outline {
   background: none;
-  border-color: #4e6669;
-  color: #4e6669;
+  border-color: #8e8e8e;
+  color: #8e8e8e;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
@@ -260,14 +260,14 @@ h6,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #c1c1c1;
+  border-color: #c1c1c1;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #7e9b9f !important;
-  border-color: #7e9b9f !important;
+  background-color: #c1c1c1 !important;
+  border-color: #c1c1c1 !important;
 }
 .btn-success-outline {
   background: none;
@@ -336,7 +336,7 @@ h6,
   color: #2b0680 !important;
 }
 .text-info {
-  color: #7e9b9f !important;
+  color: #c1c1c1 !important;
 }
 .text-warning {
   color: #f3c649 !important;
@@ -348,7 +348,7 @@ h6,
   background-color: #2b0680;
 }
 .alert-info {
-  background-color: #7e9b9f;
+  background-color: #c1c1c1;
 }
 .alert-warning {
   background-color: #f3c649;
@@ -394,7 +394,7 @@ h6,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #c7d4d5;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
