@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "schedule.html",
     "name": "Mountain Mission NL",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 78,
+    "uniqCompNum": 81,
     "versionPublish": "4.2.2",
     "favicon": "",
     "noImageResize": "",
@@ -100,7 +100,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>Welkom bij Mountain Mission: onze doel is om u te begeleiden bij het ontdekken en genieten van de bergen. We laten je graag ook tot rust komen en een boost geven aan je geestelijke welzijn waarvoor ongerepte natuur een ideale plaats voor is.&nbsp;<span style=\"font-size: 1.07rem;\">We kunnen u helpen als u op zoek bent naar een </span><b style=\"font-size: 1.07rem;\">uitdaging</b><span style=\"font-size: 1.07rem;\">, als u op zoek bent naar een </span><b style=\"font-size: 1.07rem;\">avontuur</b><span style=\"font-size: 1.07rem;\">, of simpelweg op zoek bent naar </span><b style=\"font-size: 1.07rem;\">nieuwe ervaringen</b><span style=\"font-size: 1.07rem;\">&nbsp;vanuit een uniek perspectief.</span></p><p><br></p><p>Al onze avonturen en reizen worden begeleid door ervaren gidsen en kunnen aangepast worden op uw eigen doelen en wensen. Vraag gerust!\n</p><p><br></p><p>We zijn gehuisvest in zowel Schotland en Nederland, waardoor we Nederlandstalige begeleiding kunnen bieden.\n</p><p><br></p><p>Kijk gerust rond wie we zijn en wat we voor u kunnen doen... en voel u vrij om contact met ons op te nemen om uw ideeën te bespreken. <a href=\"clientcomments.html\"><b>Lees hier</b></a> ook wat onze klaten te&nbsp;zeggen hebben.</p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><br></p><p>Welkom bij Mountain Mission: onze doel is om je te begeleiden bij het ontdekken en genieten van de bergen. Ongerepte natuur is de ideale plaats om tot rust te komen en je geestelijke welzijn te verhogen.&nbsp;<span style=\"font-size: 1.07rem;\">We kunnen je helpen als je op zoek bent naar een </span><b style=\"font-size: 1.07rem;\">uitdaging</b><span style=\"font-size: 1.07rem;\">, als je op zoek bent naar een </span><b style=\"font-size: 1.07rem;\">avontuur</b><span style=\"font-size: 1.07rem;\">, of simpelweg op zoek bent naar </span><b style=\"font-size: 1.07rem;\">nieuwe ervaringen</b><span style=\"font-size: 1.07rem;\">&nbsp;vanuit een uniek perspectief.</span></p><p><br></p><p>Al onze avonturen en reizen worden begeleid door ervaren en gekwalificeerde gidsen en kunnen aangepast worden op jouw eigen doelen en wensen. Vraag gerust!\n</p><p><br></p><p>We zijn gehuisvest in zowel Schotland en Nederland, waardoor we Nederlandstalige begeleiding kunnen bieden.\n</p><p><br></p><p>Kijk gerust rond wie we zijn en wat we voor jou kunnen doen... en voel je vrij om contact met ons op te nemen om jouw ideeën te bespreken. <a href=\"clientcomments.html\"><b>Lees hier</b></a> ook wat onze klaten te&nbsp;zeggen hebben.</p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -148,9 +148,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "What's your challenge?",
+          "title1": "Wat is jou persoonlijke uitdaging?",
           "subtitle1": "",
-          "caption1": "The UK is home to many physical hiking challenges, zoals de Drie Toppen Uitdaging, de Welsh-3000-ers, of de verschillende Munro-uitdagingen. Als u er klaar voor bent, kunnen wij deze reizen voor u faciliteren en begeleiden!",
+          "caption1": "In de UK zijn een tal van hiking challenges, zoals de Drie Toppen Uitdaging, de Welsh-3000-ers, of de verschillende Munro-uitdagingen. Als u er klaar voor bent, kunnen wij deze reizen voor u faciliteren en begeleiden!",
           "button1": "<a data-app-btn=\"true\" href=\"HikingChallenges.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MEER</a>",
           "media2": {
             "image": {
@@ -164,7 +164,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Group adventures",
+          "title2": "Groepsavonturen",
           "subtitle2": "",
           "caption2": "Of u nu een kleinere groep vrienden of een grotere organisatie bent, we kunnen allerlei verschillende reizen voor u realiseren… neem contact met ons op, we denken graag mee!",
           "button2": "<a data-app-btn=\"true\" href=\"Groups.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MEER</a>",
@@ -180,7 +180,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Spiritual reflection",
+          "title3": "Geestelijke bezinning",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Wij geloven sterk in de werking van tijd en ruimte om te reflecteren op het geloof en geestelijk welzijn. Wij faciliteren dit vanuit een Christelijk perspectief met onze ‘Geestelijke Bezinnings’-reizen.",
           "button3": "<a data-app-btn=\"true\" href=\"reflection.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MEER</a>",
@@ -264,7 +264,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -313,7 +313,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -457,9 +457,9 @@
     },
     "aboutmm.html": {
       "settings": {
-        "title": "Mountain Mission - About Mountain Mission",
+        "title": "Mountain Mission - Over Mountain Mission",
         "meta_descr": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -505,7 +505,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -555,7 +555,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -630,7 +630,7 @@
             }
           },
           "title": "About Mountain Mission",
-          "text": "<p>Bij Mountain Mission geloven we dat iedereen volop van de natuur kan en mag genieten, en dat er voor iedereen een niveau en soort avontuur is weggelegd. Wij specialiseren ons in het bevorderen van ontdekking en avonturen voor onze cliënten, vooral in bergachtig gebieden en met een focus op de Schotse Hooglanden, hoewel we ook in andere gebieden actief zijn.</p><p>We beseffen goed de unieke kansen dat outdoor avonturen met zich meebrengen en de waarde voor algemene welzijn van een mens. Dit betreft zowel de fysieke als mentale uitdagingen en overwinningen die er kunnen zijn, maar evengoed de spirituele. In een afgelegen gebied, ver van technologie en in de schoonheid van de schepping, laat je vrij voor om door te denken over het even. Wij staan ook open om in deze processen te assisteren.&nbsp;</p><p>Wij zijn een een Christelijke organisatie en opereren volgens deze normen en waarden. Daarnaast bieden we ook Chrstelijk specifieke reizen aan voor groepen of individuen die hier interesse in hebben.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Mountain Mission werd in 2017 opgericht door Simeon Calvert. Simeon heeft jarenlange ervaring in het hiken door de bergen van de UK en Europa en heeft een bijzondere liefde voor deze gebieden. Hij is een gecertificeerde UK Mountain Leader, en is aangesloten bij zowel Mountaineering Scotland als de Nederlandse NKBV. ZIjn roots liggen in Schotland, maar hij woont nu op Nederlandse bodem, vanuit waar hij ook unieke reizen kan bieden aan Nederlandse klanten.</span></p><p><br></p>",
+          "text": "<p>Bij Mountain Mission geloven we dat iedereen volop van de natuur kan en mag genieten, en dat er voor iedereen een juiste niveau en soort avontuur is weggelegd. Wij specialiseren ons in het bevorderen van ontdekking en avonturen voor onze cliënten, vooral in bergachtig gebieden en met een focus op de Schotse Hooglanden, hoewel we ook in andere gebieden actief zijn.</p><p>We beseffen ons goed de unieke kansen dat outdoor avonturen met zich meebrengen en de waarde voor algemene welzijn van een mens. Dit betreft zowel de fysieke als mentale uitdagingen en overwinningen die er kunnen zijn, maar evengoed de spirituele. In een afgelegen gebied, ver van technologie en in de schoonheid van de schepping, laat je vrij voor om door te denken over het even. Wij staan ook open om in deze processen te assisteren.&nbsp;</p><p>Wij zijn een een Christelijke organisatie en opereren volgens deze normen en waarden. Daarnaast bieden we ook Chrstelijk specifieke reizen aan voor groepen of individuen die hier interesse in hebben.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Mountain Mission werd in 2017 opgericht door Simeon Calvert. Simeon heeft jarenlange ervaring in het hiken door de bergen van de UK en Europa en heeft een bijzondere liefde voor deze gebieden. Hij is een gecertificeerde UK Mountain Leader, en is aangesloten bij zowel Mountaineering Scotland als de Nederlandse NKBV. Zijn roots liggen in Schotland, maar hij woont nu op Nederlandse bodem, waar vanuit hij ook unieke reizen kan bieden aan Nederlandse klanten.</span></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -639,7 +639,7 @@
       "settings": {
         "title": "Mountain Mission - Munro bagging",
         "meta_descr": "Mountain Mission",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -685,7 +685,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -735,7 +735,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -817,9 +817,9 @@
     },
     "YourAdventure.html": {
       "settings": {
-        "title": "Mountain Mission - Your adventure",
+        "title": "Mountain Mission - Je eigen avontuur",
         "meta_descr": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -865,7 +865,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -915,7 +915,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -992,17 +992,17 @@
               "size": 250
             }
           },
-          "title": "Avontuur:<br>UW AVONTUUR OP MAAT",
-          "text": "Is er een avontuur of uitdaging waar u een tijdlang over nadenkt of tegenop ziet, dan is dit wellicht het beste moment ervoor! We helpen u graag om dit avontuur te realiseren! Is het de top van een bepaalde berg, de voetstappen van een bepaalde tocht of het overwinnen van een van uw eigen angsten?\n<br>DIT AVONTUUR: is wat u maar wilt! \n<br><br><br><br>",
+          "title": "Avontuur:<br>JOUW AVONTUUR OP MAAT",
+          "text": "Is er een avontuur of uitdaging waar je een tijdlang over nadenkt of tegenop ziet, dan is dit wellicht het beste moment ervoor! We helpen je graag om dit avontuur te realiseren! Is het de top van een bepaalde berg, in de voetstappen volgen van een bepaalde route of het overwinnen van een van uw eigen angsten?\n<br>DIT AVONTUUR: is wat je maar wilt! \n<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
     "LongDistance.html": {
       "settings": {
-        "title": "Mountain Mission - Long distance treks",
+        "title": "Mountain Mission - Lange afstandstochten",
         "meta_descr": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1048,7 +1048,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1098,7 +1098,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -1173,16 +1173,16 @@
             }
           },
           "title": "Avontuur:<br>LANGE AFSTANDSTOCHT",
-          "text": "Soms is de beste manier om de Schotse Hooglanden te bewonderen en beleven simpelweg om  er per voet doorheen te trekken. Dit brengt je op plaatsen die niet zo makkelijk met de auto te bereiken zijn, en laat je opgaan in alles wat Schotland te bieden heeft. En vaak hoeft dan niet eens door hoge toppen te beklimmen, dus het staat open voor een ieder!<br>DIT AVONTUUR: houdt een meerdaagse tocht in door een grote variatie aan terrein en uitzicht, als lus of met verschillende start- en eindpunten.\n<br><br><br>",
+          "text": "Soms is de beste manier om de Schotse Hooglanden te bewonderen en beleven simpelweg om  er per voet doorheen te trekken. Dit brengt je op plaatsen die je niet zo makkelijk met de auto zou bereiken, en laat je opgaan in alles wat Schotland te bieden heeft. En vaak hoeft dat niet eens door hoge toppen te gaan, dus het staat open voor een ieder!<br>DIT AVONTUUR: houdt een meerdaagse tocht in door een grote variatie aan terrein en uitzichten, als lus of met verschillende start- en eindpunten.\n<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
     "Groups.html": {
       "settings": {
-        "title": "Mountain Mission - Group adventures",
+        "title": "Mountain Mission - Groepsavonturen",
         "meta_descr": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1228,7 +1228,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1278,7 +1278,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -1362,7 +1362,7 @@
       "settings": {
         "title": "Mountain Mission - Hiking Challenges",
         "meta_descr": "",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -1408,7 +1408,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1457,7 +1457,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -1513,7 +1513,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/challenge-605x345.jpg",
+              "src": "@PROJECT_PATH@/assets/images/challenge-alt-471x345.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1532,16 +1532,16 @@
             }
           },
           "title": "Avontuur:<br>DE 'CHALLENGES'",
-          "text": "Okay, dit is waar de meeste mensen zouden stoppen, maar er zijn van die avonturiers die net een stapje extra willen gaan.\n<br>Voor deze mensen hebben we de klassieke, en soms niet zo klassieke, hiking uitdagingen. Bijvoorbeeld de ‘West Highland Way’ in zeven dagen- of waarom niet proberen in vijf dagen! De Welsh 3000-ers! De Schotse 4000-ers! De Drie Toppen Uitdaging (de drie hoogste pieken in de UK binnen 24 uur)! En veel meer.\n<br>Hieronder vindt u een lijst van de beter  bekende hiking uitdagingen. Maar er zijn er veel meer moor, en degene die genoemd worden kunnen aangepast worden om ze beter draagbaar of juist uitdagender te maken. Het hangt er maar vanaf van hoe uitdagend u het wilt maken. :)\n<br>DIT AVONTUUR: zal pijn doen, vermoeien, en die extra mijl van u vragen. Maar u zult er echt van genieten!\n<br>\n<br>Een overzicht van een aantal mogelijke uitdagingen kunt u vinden op deze websites:https://www.redbull.com/gb-en/six-best-uk-mountain-challenges\n<br>(We hopen deze lijst spoedig uit te breiden)\n<br><br>OK, this is where most people would stop, but there are those who like to step things up a bit. For these people, we have the classical, and some not so classical, hiking challenges. The West Highland Way, in 7 days, or why not try it in 5 days! The Welsh 3000-ers! The Scottish 4000-ers! The three peak challenge (all three UK highest peaks in 24 hours)! And many more.<br>Here below we mention some of the better known hiking challenges. But there are many more, and the ones mentioned can be tweaked further more make them more bareable or more challenging. It's all about how challenging you really want to make it. :)<br>THIS ADVENTURE: is going to hurt, make you tired, and will really push you. But you will really enjoy it!<br><br>An overview of some of the challenges can be found on these websites:<br><a href=\"https://www.redbull.com/gb-en/six-best-uk-mountain-challenges\">https://www.redbull.com/gb-en/six-best-uk-mountain-challenges</a><br>(We hope to extend this list soon)",
+          "text": "Okay, dit is waar de meeste mensen zouden stoppen, maar er zijn van die avonturiers die net een stapje verder willen gaan.\n<br>Voor deze mensen hebben we de klassieke, en soms niet zo klassieke, hiking uitdagingen. Bijvoorbeeld de ‘West Highland Way’ in zeven dagen- of waarom niet proberen in vijf dagen! De Welsh 3000-ers! De Schotse 4000-ers! De Drie Toppen Uitdaging (de drie hoogste pieken in de UK binnen 24 uur)! En veel meer.\n<br>Hieronder vindt u een lijst van de beter  bekende hiking uitdagingen. Maar er zijn er veel meer, en degene die genoemd worden kunnen aangepast worden om ze draagbaarder of juist uitdagender te maken. Het hangt er maar vanaf van hoe uitdagend je het wilt maken. :)\n<br>DIT AVONTUUR: zal pijn doen, vermoeien, en die extra mijl van u vragen. Maar u zult er echt van genieten!\n<br>\n<br>Een overzicht van een aantal mogelijke uitdagingen kun je vinden op deze websites: <a href=\"https://www.redbull.com/gb-en/six-best-uk-mountain-challenges\" target=\"_blank\">https://www.redbull.com/gb-en/six-best-uk-mountain-challenges\n</a><br>(We hopen deze lijst spoedig uit te breiden)\n<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
     "ScottishHighlands.html": {
       "settings": {
-        "title": "Mountain Mission - Scottish Highlands",
+        "title": "Mountain Mission - Schotse Hooglanden",
         "meta_descr": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1587,7 +1587,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1637,7 +1637,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -1719,9 +1719,9 @@
     },
     "UKEU.html": {
       "settings": {
-        "title": "Mountain Mission - UK and Europe",
+        "title": "Mountain Mission - UK en Europa",
         "meta_descr": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1767,7 +1767,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1817,7 +1817,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -1892,16 +1892,16 @@
             }
           },
           "title": "Over:<br>UK &amp; EUROPA HIKING",
-          "text": "Naast Schotland zijn er natuurlijk ook vele andere adembenemende gebieden in de UK die ontdekt kunnen worden. ‘Snowdonia National Park’ in Wales is een unieke en fantastische plaats om te wandelen in de bergen, en bevat veertien toppen boven 3000 voet. Overige delen van de UK, zoals de ‘Lake District’ en ‘Yorkshire Dales’ hebben weer hun eigen unieke terrain. Om niet te vergeten de ‘Peak District’ bij de Brecon Beacons. Mountain Mission is beschikbaar als uw gids in al deze gebieden en nog veel meer.\n<br><br>Mountain Mission kan u ook begeleiden op reizen door gebergte in veel andere gebieden in Europa. Of dat Scandanavie is of Oost-Europa, laat ons weten wat je zoekt en zullen je op weg helpen.<br><br><br>",
+          "text": "Naast Schotland zijn er natuurlijk ook vele andere adembenemende gebieden in de UK die ontdekt kunnen worden. ‘Snowdonia National Park’ in Wales is een unieke en fantastische plaats om te wandelen in de bergen, en bevat veertien toppen boven 3000 voet. Overige delen van de UK, zoals de ‘Lake District’ en ‘Yorkshire Dales’ hebben weer hun eigen unieke terrain. Om niet te vergeten de ‘Peak District’ bij de Brecon Beacons. Mountain Mission is beschikbaar als uw gids in al deze gebieden en nog veel meer.\n<br><br>Mountain Mission kan u ook begeleiden op reizen door gebergte in veel andere gebieden in Europa. Of dat Scandanavie is of Oost-Europa, laat ons weten wat je zoekt en we zullen je op weg helpen.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
     "terms.html": {
       "settings": {
-        "title": "Mountain Mission - Terms & Conditions",
+        "title": "Mountain Mission - Algemene voorwaarden",
         "meta_descr": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1947,7 +1947,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1997,7 +1997,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -2079,9 +2079,9 @@
     },
     "schedule.html": {
       "settings": {
-        "title": "Mountain Mission - Schedule & Price guide",
+        "title": "Mountain Mission - Reisschema en prijsindicatie",
         "meta_descr": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2127,7 +2127,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2177,7 +2177,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -2269,7 +2269,7 @@
     },
     "reflection.html": {
       "settings": {
-        "title": "Mountain Mission - Spiritual reflection",
+        "title": "Mountain Mission - Geestelijke bezinning",
         "meta_descr": "",
         "order": 1
       },
@@ -2317,7 +2317,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2367,7 +2367,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>"
         },
         {
           "_name": "footer1",
@@ -2426,7 +2426,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/spiritual-736x1104.jpg",
+              "src": "@PROJECT_PATH@/assets/images/spiritual-sm-736x556.jpg",
               "link": "reflection.html",
               "alt": "",
               "title": "",
@@ -2445,7 +2445,7 @@
             }
           },
           "title": "Avontuur:<br>GEESTELIJKE BEZINNING",
-          "text": "Vaak kan de drukte van het leven ons overweldigen en weinig tijd overlaten om de grotere zaken in het leven te overdenken. Jezus, evenals andere Bijbelse leiders, zocht vaak de rust van de bergen op om dichter bij God te komen en diepere geestelijke vrede te vinden.\n<br>Ook voor ons in deze tijd kan het lonend (/vruchtbaar) zijn om de bergen in te gaan, weg van de druk van het leven van alledag, zonder telefoonbereik of e-mails, en de tijd te nemen om te reflecteren op de grotere levensvragen. Uit eigen ervaring kan ik u zeggen dat ik enkele van de diepste gesprekken juist in de bergen heb gehad, waar men alle tijd in de wereld heeft om je hart te openen en met anderen te delen.\n<br>Waar u ook zit in uw leven of geestelijke leven, we streven ernaar om tijdens de reis een omgeving te creëren waar u de tijd kunt nemen om een dieper niveau in uw geloof te bereiken of meer focus op bepaalde onderwerpen. Er is geen druk, en de richting waarin u wilt overdenken is geheel aan u. Wij zijn geen psychologen, maar volgers van Christus die er voor u zijn om dit te faciliteren.\n<br>Een ‘Geestelijke Bezinnings’-reis kan gecombineerd worden met de meeste van de andere genoemde avonturen. We verwachten van de deelnemers van tevoren een zeker idee van wat zij uit de reis zouden willen halen, en zullen dit van tevoren vragen.\n<br><br>Often, life's pressures seem to overwelm us and leave little time for contemplating the greater issues in life.&nbsp;Jesus, and other biblical leaders, would often seek the serenity of the mountains to come closer to God and gain a greater spiritual peace. <br>Also for us today, going into the mountains, away from the pressures of everyday life, without a phone reception or emails, and taking time to reflect on the greater questions in life can be rewarding. Also from personal experience, I can say that I have had some of my deepest conversations in the mountains, where you have all the time in the world to open your heart and share with others.&nbsp;<br><br>Whereever you are in life or your spiritual life, we aim to facilitate a trip in an environment that will allow you take time to find a deeper level of faith or to focus on certain topics. There is no pressure, and the direction you choose to conteplate is entirely up to you. We are not psychologists, but we are dedicated followers of Christ, who are there to facilitate this for you.<br><br>A 'Spiritual Reflection' trip can be combined with most of the mentioned adventures. We do ask that you have some sort of sense of what you're looking for from the trip, and we will ask this in advance.<br><br><br>",
+          "text": "Vaak kan de drukte van het leven ons overweldigen en weinig tijd overlaten om de grotere zaken in het leven te overdenken. Jezus, evenals andere Bijbelse grootheden, zocht vaak de rust van de bergen op om dichter bij God te komen en diepere geestelijke vrede te vinden.\n<br>Ook voor ons in deze tijd kan het vruchtbaar zijn om de bergen in te gaan, weg van de drukte van het leven van alledag, zonder telefoonbereik of e-mails, en de tijd te nemen om te reflecteren op de grotere levensvragen. Uit eigen ervaring kan ik je vertellen dat ik enkele van mijn diepste gesprekken juist in de bergen heb gehad, waar men alle tijd in de wereld heeft om je hart te openen en met anderen te delen.\n<br>Waar je ook zit in je levenreis, we streven ernaar om tijdens de reis een sfeer te creëren om verdieping in je geloof of op bepaalde onderwerpen mogelijk te maken. Er is geen druk, en de richting is geheel aan jou. Wij zijn geen psychologen, maar volgers van Christus die er voor jou zijn om dit te faciliteren.\n<br>Een ‘Geestelijke Bezinnings’-reis kan gecombineerd worden met de meeste van de andere genoemde avonturen. We verwachten van de deelnemers van tevoren een zeker idee van wat zij uit de reis zouden willen halen, en zullen dit van tevoren vragen.\n<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -2453,6 +2453,186 @@
     "contact.html": {
       "settings": {
         "title": "Mountain Mission - Contact",
+        "meta_descr": "",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
+          "_anchor": "menu-1t"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": "1"
+          },
+          "text": "Copyright (c) 2017 Mountain Mission.",
+          "_anchor": "footer1-1u"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "39",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/contact-1400x931.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Contact",
+          "text": "Je kunt contact met ons opnemen voor meer informatie of om te boeken door een e-mail te sturen naar:<br><i><br></i><i><b><a href=\"mailto:MountainMissionUK@gmail.com\">MountainMissionUK [at] gmail.com</a></b></i><br><br>We zullen je e-mail zo snel mogelijk beantwoorden, gewoonlijk binnen 48 uur.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box6-1v"
+        }
+      ]
+    },
+    "transportandaccomodation.html": {
+      "settings": {
+        "title": "Mountain Mission - Vervoer en accommodatie",
         "meta_descr": "",
         "order": 12
       },
@@ -2549,187 +2729,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
-          "_anchor": "menu-1t"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": "1"
-          },
-          "text": "Copyright (c) 2017 Mountain Mission.",
-          "_anchor": "footer1-1u"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box6",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "39",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/contact-1400x931.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Contact",
-          "text": "U kunt contact met ons opnemen voor meer informatie of om te boeken door een e-mail te sturen naar:<br><i><br></i><i><b><a href=\"mailto:MountainMissionUK@gmail.com\">MountainMissionUK [at] gmail.com</a></b></i><br><br>We zullen uw e-mail zo snel mogelijk beantwoorden, gewoonlijk binnen 48 uur.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_anchor": "msg-box6-1v"
-        }
-      ]
-    },
-    "transportandaccomodation.html": {
-      "settings": {
-        "title": "Mountain Mission - Transport &amp; accomodation",
-        "meta_descr": "",
-        "order": 11
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f7da64!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
           "_anchor": "menu-1w"
         },
         {
@@ -2785,7 +2785,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/accom-600x315.jpg",
+              "src": "@PROJECT_PATH@/assets/images/transportacc-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2803,8 +2803,8 @@
               "size": 250
             }
           },
-          "title": "Transport &amp; accomodation",
-          "text": "Elke reis zal eigen vervoer en accommodatie hebben. De meeste reizen zullen starten vanaf een centrale plek in het land waar de reis gemaakt wordt, zoals een bepaald vliegveld of een treinstation. Voor de meeste reizen bieden wij lokaal transport aan om u van de centrale locatie naar de plaats te brengen waar het avontuur zal plaatsvinden. Normaal gesproken is dit bij de algemene reiskosten inbegrepen. Onderdak zal over het algemeen in hostels of tenten zijn, afhankelijk van het type avontuur. Ook dit is normaal gesproken bij de totale reiskosten inbegrepen.\n<br>Omdat de voorkeuren en kunnen verschillen, verzorgen wij het eten en drinken in de regel niet, tenzij dit van tevoren overeengekomen is. Het is wel zo dat de meeste hostels ontbijt zullen aanbieden wat bij de prijs inbegrepen zal zijn. Bij de start van iedere reis, en wanneer nodig tijdens de reis, zullen we tijd vrijmaken om voedselaankopen te doen. We zullen er ook voor zorgen dat u van tevoren weet wat u nodig zult hebben en welke middelen er zijn om voedsel te bereiden. \n<br><br>Each trip will have its own method of transport and type of accomodation.&nbsp;<br>Most trips will start from a central location in the country in which the trip is being made, such as a certain airport or train station. For most trips, we will offer local in-trip transport to get you to and from the central location and the areas the adventure takes place in. The in-trip travel is normally inclusive in the total trip price.<br>Accomodation will normally be in hostels or in tents or a combination, depending on the type of adventure. This is again normally included in the total trip price.<br><br>As people have a wide range of different dietry preferences and budgetary limits, we generally do not provide food and drink, and also do not provide this on the trips, unless this has been agreed in advance. Although most hostels will offer breakfast, which may be included in the price. At the start of each trip, and when appropriate during the trip, we will facilitate time to make food purchaces. We will also make sure you know what you will need and what means of food preparation is available.",
+          "title": "Vervoer &amp; accommodatie",
+          "text": "Elke reis zal eigen vervoer en accommodatie hebben. De meeste reizen zullen starten vanaf een centrale plek in het land waar de reis gemaakt wordt, zoals een bepaald vliegveld of een treinstation. Voor de meeste reizen bieden wij lokaal transport aan om u van de centrale locatie naar de plaats te brengen waar het avontuur zal plaatsvinden. Normaal gesproken is dit bij de algemene reiskosten inbegrepen. Onderdak zal over het algemeen in hostels of tenten zijn, afhankelijk van het type avontuur. Ook dit zit normaal gesproken bij de totale reiskosten inbegrepen.\n<br>Omdat de voorkeuren en kunnen verschillen, verzorgen wij het eten en drinken in de regel niet, tenzij dit van tevoren overeengekomen is. Het is wel zo dat de meeste hostels ontbijt zullen aanbieden wat bij de prijs inbegrepen zal zijn. Bij de start van iedere reis, en wanneer nodig tijdens de reis, zullen we tijd vrijmaken om voedselaankopen te doen. We zullen er ook voor zorgen dat u van tevoren weet wat u nodig zult hebben en welke middelen er zijn om voedsel te bereiden. \n<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box6-1y"
         }
@@ -2812,9 +2812,9 @@
     },
     "clientcomments.html": {
       "settings": {
-        "title": "Mountain Mission - Client Comments",
+        "title": "Mountain Mission - Klantenrecencies",
         "meta_descr": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2860,7 +2860,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#f3c649!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2909,7 +2909,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Schotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Lange afstandstochten</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Je eigen avontuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Groepsavonturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Geestelijke bezinning</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Algemene voorwaarden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
           "_anchor": "menu-1z"
         },
         {
@@ -2987,196 +2987,6 @@
           "text": "We vinden het belangrijk om feedback te krijgen van onze clienten zodat we onze diensten steeds kunnen verbeteren. Hier zijn enkele opmerkingen van recente clienten:<br><br><i>\"Heb erg genoten van de mooie tocht door de bergen in Schotland. Fysiek afzien, lol, en inspirerende nacht wildkamperen op hoogte. Binnen 4 dagen de batterij weer helemaal opgeladen!\" - Juni 2018</i><br>- Maarten, Pijnacker, NL<br><br><i>\"Een goed georganiseerde reis met mooie hiking tochten in de Schotse hooglanden. Uitdagend en inspannend, maar zeer de moeite waard!\" - Oktober 2017\n</i><br>- Marien, Pijnacker, NL<br><br><i>\"For a long time I've looked up at the iconic mountain at the head of Glencoe and wondered what it would be like to stand on its summit. Now I know, it is awesome, majestic, exciting! It was a challenging climb but thanks to Simeon from Mountain Mission for making a dream into a reality. He carefully explained the route before we left, checked my equipment and guided me safely up and along the ridge crossing two Corbetts en route to our second munro of the day. Tougher still for me was getting back down, but never at any point did I feel unsafe. Simeon's instructions &amp; guidance were clear and concise. My bucket list climb of Buachaille Etive Mor complete. - one happy camper 😊 - I will be back to use Mountain Mission again as soon as I decide which mountain is next on my list - perhaps Lochnagar\" - September 2017\n</i><br>- Lesley-Ann, Dundee, UK<br><br><i>\"Simeon nam me mee op een vierdaagse hike door de Schotse Hooglanden, ver van het bewoonde wereld. Hij was van begin tot einde goed georganiseerd, bemoedigend en vrolijk. Een zeer aangename ervaring dat ik een ieder zou aanbevelen!\" &nbsp;</i><br><i>[\"Simeon took me on a four day hike in the Scottish Highlands, far afield from any towns or villages. From beginning to end he was organised, reassuring and in good spirits. A thoroughly enjoyable experience and one that I'd highly recommend!\"] - May 2016</i><br>- Daniel, London, UK&nbsp;<br><br><br><br><br><br><i><br></i><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box6-21"
-        }
-      ]
-    },
-    "page15.html": {
-      "settings": {
-        "title": "testpage",
-        "meta_descr": "",
-        "order": 14
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.mountainmission.eu/index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OVER MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"clientcomments.html\" aria-expanded=\"false\">Wat onze klanten zeggen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">SChotse Hooglanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + Europa</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AVONTUREN AANBOD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">AANMELDEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Reisschema &amp; kostenindicatie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Uitrusting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Vervoer &amp; verblijf</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://www.mountainmission.eu/index.html\">ENGLISH</a></li>",
-          "_anchor": "menu-23"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": "1"
-          },
-          "text": "Copyright (c) 2017 Mountain Mission.",
-          "_anchor": "footer1-24"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "font-size": "46px"
-            },
-            "P": {
-              "font-size": "17px",
-              "color": "#f28281"
-            },
-            "U": {
-              "color": "#f3c649"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box6",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "39",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/schedule-1200x817.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Schedule &amp; price guide",
-          "text": "<p>While we prefer to offer custom adventures to our clients, we also schedule general trips during the year. <b>To record your interest or make a booking, contact us through the<a href=\"contact.html\"> </a><u><a href=\"contact.html\">contact</a></u><a href=\"contact.html\"> </a>page.</b></p><p><b>A</b> = Places available / <b>F</b> = Trip is full / <b>C</b> = Trip confirmed to definitely commense / <b>N</b> = Not yet confirmed to definitely commence</p><p>We currently have the following trips scheduled (other dates &amp; trips are also possible!):\n<br>\n<br><u>Open Four-day Ridge hike in Scotland \n</u><br>Possible dates: \n<br>- Advanced/Intermediate 4-days: May-July (multiple dates available) 2018 &nbsp;<b>A N \n</b><br>Estimated costs: &nbsp;470 Euros incl. accommodation &amp; local transport&nbsp;<br>\n<br><u>Open Three/Four-day hiking in Scotland \n</u><br>Possible dates: TBD \n<br>- April-October 2018 (multiple dates available) &nbsp;<b>A N</b> \n<br>Estimated costs: 190 Euros - max* 480 Euros incl. accommodation &amp; local transport (*depending on the number of participants)\n<br>\n<br><u>‘Pijnacker Vaders’ hiking in Scotland \n</u><br>Possible dates: \n<br>- Advanced/Intermediate 4-days: May-June 2018  <b>A N \n</b><br>- Intermediate/Beginner 3-days: May-June 2018  <b>A N \n</b><br>Estimated costs: 420 Euros (3 days) &nbsp;- &nbsp;450 Euros (4 days) incl. accommodation &amp; local transport&nbsp;<br>\n<br>If you are interested in joining a trip, please make this known to us! Email: <i>mountainmissionUK@gmail.com</i> &nbsp;<br></p><p><b>Rough price guide:&nbsp;</b>Each adventure has different demands and expenses, we cannot give exact costs applicable for all activities. However the following gives an indication of the guiding costs only. Please keep in mind that most trips will also include accommodation costs and travel costs. Also, <b>multi-day guiding trips will often include a cost reduction</b>. For 'Spiritual reflection' trips, we also have special prices, which are available on request. As a rough guide: for a single person for a single day, a fee may be in the region of 120-250 euros. However, for say a group of 6 people for 5 days, the fee may be as low as 30 euros/person/day. Please do get in contact for a more precise quotation!<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_anchor": "msg-box6-25"
         }
       ]
     }
