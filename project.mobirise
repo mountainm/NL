@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "schedule.html",
     "name": "Mountain Mission NL",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 87,
+    "uniqCompNum": 94,
     "versionPublish": "4.2.2",
     "favicon": "",
     "noImageResize": "",
@@ -2271,7 +2271,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>\n</p><p><span style=\"font-size: 1.07rem;\"><b><u><br></u></b></span></p><p><span style=\"font-size: 1.07rem;\"><b><u>Iconische Schotse Hooglanden</u></b></span></p><p>15-18 / 22-25 mei - (tripcode 20Sp01)</p><p>11-14 / 18-21 / 25-28 sept - (tripcode 20Au01)</p><p>Kosten: 395 euro\n</p><p>\n</p><p><br></p><p>Vanaf een basis in het Loch Lomond en Trossachs National Park maken we dagtrips naar iconische bergen in Schotland. Dit is een niet te missen reis voor de uitzichten en natuur en is een uitstekende keuze voor mensen die kennis willen maken met de Schotse bergen. \n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 2/3. Dagen met afwisselende duur (5-8 uur), meestal over paden, maar soms steil terrein. Geschikt voor mensen die minimaal 6-7 uur kunnen lopen en redelijk fit zijn.\n</p><p><u>Accommodatie:</u> Self-catering (bijv. jeugdherberg/luxe stacaravan)\n</p><p><br></p><p>De dagbeschrijving wordt als voorbeeld gegeven. De exacte routes zijn afhankelijk van de heersende omstandigheden en geschiktheid van de groep.\n</p><p>\n</p><p>Dag 1: Na de ontvangst op het vliegveld rijden we naar het beginpunt van de eerste hike, bijvoorbeeld Ben Vorlich ten westen van Loch Lomond.\n</p><p>Dag 2: Ten westen van Loch Lomond liggen de Arrochar-Alpen. Deze bergen, waaronder drie Munro's en de beroemde Cobbler-heuvel, bieden gevarieerd terrein en uitstekende wandel routes met fantastische uitzichten over het Loch.\n</p><p>Dag 3: Wat zit er in een naam!? Ben Lomond ten oosten van Loch Lomond is een vaak beklommen Munro, maar om een aantal zeer goede redenen. Een goed pad leidt ons naar de top van deze kroonjuweel van de zuidelijke Hooglanden van Schotland.\n</p><p>Dag 4: Op deze laatste dag hebben deelnemers de mogelijkheid om 's ochtends met hun gids een laatste hike te ondernemen. Men heeft deze ochtend ook de mogelijkheid om op eigen initiatief een andere activiteit te ondernemen. In de middag keren we terug naar de luchthaven voor de drop-off.</p><p><br></p><p><a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\" target=\"_blank\">BOEK NU!</a></p></blockquote>",
+          "text": "<blockquote><p>\n</p><p><span style=\"font-size: 1.07rem;\"><b><u><br></u></b></span></p><p><span style=\"font-size: 1.07rem;\"><b><u>Iconische Schotse Hooglanden</u></b></span></p><p>15-18 / 22-25 mei - (tripcode 20Sp01)</p><p>11-14 / 18-21 / 25-28 sept - (tripcode 20Au01)</p><p>Kosten: 395 euro\n</p><p>\n</p><p><br></p><p>Vanaf een basis in het Loch Lomond en Trossachs National Park maken we dagtrips naar iconische bergen in Schotland. Dit is een niet te missen reis voor de uitzichten en natuur en is een uitstekende keuze voor mensen die kennis willen maken met de Schotse bergen. \n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 2/3. Dagen met afwisselende duur (5-8 uur), meestal over paden, maar soms steil terrein. Geschikt voor mensen die minimaal 6-7 uur kunnen lopen en redelijk fit zijn.\n</p><p><u>Accommodatie:</u> Self-catering (bijv. jeugdherberg/luxe stacaravan)\n</p><p><br></p><p>De dagbeschrijving wordt als voorbeeld gegeven. De exacte routes zijn afhankelijk van de heersende omstandigheden en geschiktheid van de groep.\n</p><p>\n</p><p>Dag 1: Na de ontvangst op het vliegveld rijden we naar het beginpunt van de eerste hike, bijvoorbeeld Ben Vorlich ten westen van Loch Lomond.\n</p><p>Dag 2: Ten westen van Loch Lomond liggen de Arrochar-Alpen. Deze bergen, waaronder drie Munro's en de beroemde Cobbler-heuvel, bieden gevarieerd terrein en uitstekende wandel routes met fantastische uitzichten over het Loch.\n</p><p>Dag 3: Wat zit er in een naam!? Ben Lomond ten oosten van Loch Lomond is een vaak beklommen Munro, maar om een aantal zeer goede redenen. Een goed pad leidt ons naar de top van deze kroonjuweel van de zuidelijke Hooglanden van Schotland.\n</p><p>Dag 4: Op deze laatste dag hebben deelnemers de mogelijkheid om 's ochtends met hun gids een laatste hike te ondernemen. Men heeft deze ochtend ook de mogelijkheid om op eigen initiatief een andere activiteit te ondernemen. In de middag keren we terug naar de luchthaven voor de drop-off.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2280,11 +2280,64 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "39",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/icon-653x328.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\">BOEK NU!</a>&nbsp;",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2g"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><br></p><p><u style=\"font-weight: bold;\">Schotse bergruggen</u>&nbsp;(20Sp02)</p><p>26-29 juni / 10-13 juli\n</p><p>Kosten: 395 euro\n</p><p>\n</p><p><br></p><p>Heb je ooit die foto's gezien van inspirerende bergruggen met uitzicht op meren met kilometers ver uitzicht? Welnu, dit is je kans om op enkele van deze bergruggen zelf te staan. Gedurende drie bergdagen zullen we over de indrukwekkende bergruggen rond Glen Shiel in de West Highlands trekken. Sommige secties zijn steil, sommige secties smal, maar allemaal zeer de moeite waard!\n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 3/4. Veeleisende en lange dagen (8-11 uur), soms ruig terrein en steile beklimmingen. Geschikt voor de meeste fitte en/of getrainde mensen.\n</p><p><u>Accommodatie: </u>Self-catering (bijv. jeugdherberg/luxe stacaravan)\n</p><p>\n</p><p><br></p><p>Dag 1: Ophalen van het vliegveld. Onderweg naar Glen Shiel zullen we een kortere tocht maken om de lichamen op te warmen voor de dagen daarna.\n</p><p>Dag 2: Eerste ‘ridge’dag. De befaamde Five Sisters of Kintail ten noorden van de Glen is een klassieke ridge hike met drie Munro pieken en geeft alle mogelijkheden om van spectaculaire uitzichten te genieten.\n</p><p>Dag 3: Op de tweede bergwandeling dag hebben we twee opties (te bepalen afhankelijk van de omstandigheden en geschiktheid voor de groep). De eerste is over de bergrug van Glen Shiel ridge die een indrukwekkende zeven Munro's bevat en biedt fantastische uitzichten. Deze optie is een lange (tot 11 uur), maar zeer plezierige dag. Als alternatief, aan de noordkant van de Glen zijn de Brothers of Kintail, die een zeer fijne ridgewalk geven en complementair zijn aan hun ‘Sisters’.\n</p><p>Dag 4: Op deze laatste dag kunnen de deelnemers op bezoek bij een van de bekende kastelen van Schotland: Eilean Donan castle. Dit iconische kasteel is vaak te zien op plaatjes van Schotland, maar heeft uit zichzelf ook een rijke geschiedenis. Men is ook vrij om op eigen initiatief een andere activiteit te ondernemen in de ochtend, voordat we op tijd teruggaan naar de luchthaven voor de drop-off.</p><p><br></p><p><a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\" target=\"_blank\">BOEK NU!</a></p></blockquote>",
+          "text": "<blockquote><p><br></p><p><u style=\"font-weight: bold;\">Schotse bergruggen</u>&nbsp;(20Sp02)</p><p>26-29 juni / 10-13 juli\n</p><p>Kosten: 395 euro\n</p><p>\n</p><p><br></p><p>Heb je ooit die foto's gezien van inspirerende bergruggen met uitzicht op meren met kilometers ver uitzicht? Welnu, dit is je kans om op enkele van deze bergruggen zelf te staan. Gedurende drie bergdagen zullen we over de indrukwekkende bergruggen rond Glen Shiel in de West Highlands trekken. Sommige secties zijn steil, sommige secties smal, maar allemaal zeer de moeite waard!\n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 3/4. Veeleisende en lange dagen (8-11 uur), soms ruig terrein en steile beklimmingen. Geschikt voor de meeste fitte en/of getrainde mensen.\n</p><p><u>Accommodatie: </u>Self-catering (bijv. jeugdherberg/luxe stacaravan)\n</p><p>\n</p><p><br></p><p>Dag 1: Ophalen van het vliegveld. Onderweg naar Glen Shiel zullen we een kortere tocht maken om de lichamen op te warmen voor de dagen daarna.\n</p><p>Dag 2: Eerste ‘ridge’dag. De befaamde Five Sisters of Kintail ten noorden van de Glen is een klassieke ridge hike met drie Munro pieken en geeft alle mogelijkheden om van spectaculaire uitzichten te genieten.\n</p><p>Dag 3: Op de tweede bergwandeling dag hebben we twee opties (te bepalen afhankelijk van de omstandigheden en geschiktheid voor de groep). De eerste is over de bergrug van Glen Shiel ridge die een indrukwekkende zeven Munro's bevat en biedt fantastische uitzichten. Deze optie is een lange (tot 11 uur), maar zeer plezierige dag. Als alternatief, aan de noordkant van de Glen zijn de Brothers of Kintail, die een zeer fijne ridgewalk geven en complementair zijn aan hun ‘Sisters’.\n</p><p>Dag 4: Op deze laatste dag kunnen de deelnemers op bezoek bij een van de bekende kastelen van Schotland: Eilean Donan castle. Dit iconische kasteel is vaak te zien op plaatjes van Schotland, maar heeft uit zichzelf ook een rijke geschiedenis. Men is ook vrij om op eigen initiatief een andere activiteit te ondernemen in de ochtend, voordat we op tijd teruggaan naar de luchthaven voor de drop-off.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2293,11 +2346,64 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "37",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ridges-512x243.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\">BOEK NU!</a>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2j"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><br></p><p><u style=\"font-weight: bold;\">Schotse 4000-ers challenge: Ben Nevis + alle 4000-voeters</u>&nbsp;(20Sp03)</p><p>29 mei-1 juni /&nbsp;<span style=\"font-size: 1.07rem;\">Andere data ook beschikbaar</span></p><p>Kosten: 380 euro\n</p><p><br></p><p>Een uitdagende vierdaagse trek over de hoogste 9 toppen van Schotland, allemaal boven 4000-voet. Deze challenge bevat lange dagen met veel verticale en horizontale kilometers, maar met de beloning dat je door de mooiste en afgelegen plekken van Schotland trekt. Het begint in de wildernis van de Caringorms bergen als we door de befaamde Lairig Ghru vallei trekken en de hoogste pieken van het park aantikken. We ronden het avontuur af met de spectaculaire Nevis Range, inclusief Schotlands hoogste berg: Ben Nevis.\n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 4. Uitdagend. Lange dagen (8-10 uren) met meer dan 3000m stijdging/afdaling over soms zeer ruig terrein, inclusief enkele klassieke routes, zoals de CMD arête naar Ben Nevis. Geschikt voor zeer fitte en/of getrainde mensen met voldoende ervaring.\n</p><p><u>Accommodatie:</u> 2x Self-catering (bijv. jeugdherberg/luxe stacaravan) en 1x wildkamperen\n</p><p>\n</p><p><br></p><p>Dag 1: Vanuit het vliegveld rijden we naar de Cairngorms National Park. Tegen de middag beginnen we met de eerste klim richting Cairn Gorm mountain, dat eigenlijk vrij gemakkelijk is en een goede inkomer. Daarna verplaatsen we ons verder naar de een na hoogste berg van Schotland: Ben Macdui, om vervolgens onze tenten in of nabij de Lairig Ghru op te zetten in het hart van de Cairngorms. \n</p><p>Dag 2: We gaan verder de Cairngorms in bereiken de toppen van Cairn Toul, Lochain Uaine en Braeriach, voordat we terugkeren naar de Lairig Ghru en terug naar het beginpunt voor een verdiende maaltijd en nachtrust.\n</p><p>Dag 3: We gaan goed uitgerust richting de toppen van de Nevis Range vanuit  de ongelooflijk mooie Glen Nevis. We beginnen met de twee Aonachs (Beag en Mor), over nogal rotsachtig terrein en komen we uit op Cairn Dearg Mohr (CMD), gevolgd door de klassieke CMD arete naar de top van Ben Nevis! Daarna moeten we nog afdalen en terugkomen voor een welverdiende maaltijd om het succes te vieren.\n</p><p>Dag 4: Dit is een reserve dag. Men kan kiezen om een aanvullende hike te doen onder begeleiding van de gids of op eigen initiatief een andere activiteit te ondernemen. In de middag keren we terug naar de luchthaven voor de drop-off.</p><p><br></p><p><a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\" target=\"_blank\">BOEK NU!</a></p></blockquote>",
+          "text": "<blockquote><p><br></p><p><u style=\"font-weight: bold;\">Schotse 4000-ers challenge: Ben Nevis + alle 4000-voeters</u>&nbsp;(20Sp03)</p><p>29 mei-1 juni /&nbsp;<span style=\"font-size: 1.07rem;\">Andere data ook beschikbaar</span></p><p>Kosten: 380 euro\n</p><p><br></p><p>Een uitdagende vierdaagse trek over de hoogste 9 toppen van Schotland, allemaal boven 4000-voet. Deze challenge bevat lange dagen met veel verticale en horizontale kilometers, maar met de beloning dat je door de mooiste en afgelegen plekken van Schotland trekt. Het begint in de wildernis van de Caringorms bergen als we door de befaamde Lairig Ghru vallei trekken en de hoogste pieken van het park aantikken. We ronden het avontuur af met de spectaculaire Nevis Range, inclusief Schotlands hoogste berg: Ben Nevis.\n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 4. Uitdagend. Lange dagen (8-10 uren) met meer dan 3000m stijdging/afdaling over soms zeer ruig terrein, inclusief enkele klassieke routes, zoals de CMD arête naar Ben Nevis. Geschikt voor zeer fitte en/of getrainde mensen met voldoende ervaring.\n</p><p><u>Accommodatie:</u> 2x Self-catering (bijv. jeugdherberg/luxe stacaravan) en 1x wildkamperen\n</p><p>\n</p><p><br></p><p>Dag 1: Vanuit het vliegveld rijden we naar de Cairngorms National Park. Tegen de middag beginnen we met de eerste klim richting Cairn Gorm mountain, dat eigenlijk vrij gemakkelijk is en een goede inkomer. Daarna verplaatsen we ons verder naar de een na hoogste berg van Schotland: Ben Macdui, om vervolgens onze tenten in of nabij de Lairig Ghru op te zetten in het hart van de Cairngorms. \n</p><p>Dag 2: We gaan verder de Cairngorms in bereiken de toppen van Cairn Toul, Lochain Uaine en Braeriach, voordat we terugkeren naar de Lairig Ghru en terug naar het beginpunt voor een verdiende maaltijd en nachtrust.\n</p><p>Dag 3: We gaan goed uitgerust richting de toppen van de Nevis Range vanuit  de ongelooflijk mooie Glen Nevis. We beginnen met de twee Aonachs (Beag en Mor), over nogal rotsachtig terrein en komen we uit op Cairn Dearg Mohr (CMD), gevolgd door de klassieke CMD arete naar de top van Ben Nevis! Daarna moeten we nog afdalen en terugkomen voor een welverdiende maaltijd om het succes te vieren.\n</p><p>Dag 4: Dit is een reserve dag. Men kan kiezen om een aanvullende hike te doen onder begeleiding van de gids of op eigen initiatief een andere activiteit te ondernemen. In de middag keren we terug naar de luchthaven voor de drop-off.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2306,11 +2412,64 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "38",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4k-390x209.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"http://http://www.mountainmission.eu/BookingFormNL_20.docx\">BOEK NU!</a>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2h"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><br></p><p><b style=\"text-decoration: underline;\">Schotse wildernis (Ben Alder)</b> (20Au02)</p><p>21-24 aug / andere data zijn mogelijk op aanvraag\n</p><p>Kosten: 340 euro\n</p><p>\n</p><p><br></p><p>Deze vierdaagse reis neemt je mee naar afgelegen delen van de Schotse wildernis. Zelfs in Schotland is de beschaving nooit ver weg, maar gelukkig zijn er nog steeds plaatsen waar men meer dan een dag lopen van de buitenwereld verwijderd kan zijn. Tijdens deze reis naar Ben Alder en Corrour richten we ons ook op het beklimmen van de mooiste pieken in deze spectaculaire gebieden. NB: Deze zelfde reis is ook beschikbaar voor andere afgelegen gebieden van Schotland\n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 3. Veeleisende en lange wandeldagen, soms ruig terrein en enkele steile beklimmingen. Geschikt voor de meeste fitte en getrainde mensen.\n</p><p><u>Accommodatie: </u>Wildkamperen\n</p><p>\n</p><p><br></p><p>Dag 1: Ophalen van het vliegveld en rijden naar het startpunt, gevolgd door de eerste mijlen en toppen. Kamperen in de avond om te genieten van het geweldige uitzicht en de natuur.\n</p><p>Dag 2 &amp; 3: We blijven deze adembenemende regio van Schotland ontdekken en zullen in deze dagen de belangrijkste toppen beklimmen.\n</p><p>Dag 4: We ronden onze reis af en keren terug naar het startpunt, waarna we terug naar het vliegveld zullen gaan. Maar niet voordat we onderweg de kans pakken voor een feestelijke lunch en een kans om ons op te frissen.</p><p><br></p><p><a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\" target=\"_blank\">BOEK NU!</a></p></blockquote>",
+          "text": "<blockquote><p><br></p><p><b style=\"text-decoration: underline;\">Schotse wildernis (Ben Alder)</b> (20Au02)</p><p>21-24 aug / andere data zijn mogelijk op aanvraag\n</p><p>Kosten: 340 euro\n</p><p>\n</p><p><br></p><p>Deze vierdaagse reis neemt je mee naar afgelegen delen van de Schotse wildernis. Zelfs in Schotland is de beschaving nooit ver weg, maar gelukkig zijn er nog steeds plaatsen waar men meer dan een dag lopen van de buitenwereld verwijderd kan zijn. Tijdens deze reis naar Ben Alder en Corrour richten we ons ook op het beklimmen van de mooiste pieken in deze spectaculaire gebieden. NB: Deze zelfde reis is ook beschikbaar voor andere afgelegen gebieden van Schotland\n</p><p>\n</p><p><u><br></u></p><p><u>Moeilijkheidsgraad:</u> 3. Veeleisende en lange wandeldagen, soms ruig terrein en enkele steile beklimmingen. Geschikt voor de meeste fitte en getrainde mensen.\n</p><p><u>Accommodatie: </u>Wildkamperen\n</p><p>\n</p><p><br></p><p>Dag 1: Ophalen van het vliegveld en rijden naar het startpunt, gevolgd door de eerste mijlen en toppen. Kamperen in de avond om te genieten van het geweldige uitzicht en de natuur.\n</p><p>Dag 2 &amp; 3: We blijven deze adembenemende regio van Schotland ontdekken en zullen in deze dagen de belangrijkste toppen beklimmen.\n</p><p>Dag 4: We ronden onze reis af en keren terug naar het startpunt, waarna we terug naar het vliegveld zullen gaan. Maar niet voordat we onderweg de kans pakken voor een feestelijke lunch en een kans om ons op te frissen.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2319,16 +2478,122 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wild-653x430.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\" target=\"_blank\">BOEK NU!</a>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2i"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><br></p><p><b style=\"text-decoration: underline;\">Introductie Schotse Hooglanden in winter</b> (20Wi01)</p><p>21-24 feb / 28 feb-2 mar\n</p><p>Kosten: 420 euro\n</p><p>\n</p><p><br></p><p>De winter in Schotland is een heel ander beest dan de zomer. Het wordt vaak gezocht door ervaren Alpinisten en terecht ook. De winter is de tijd om enkele van de meest adembenemende landschappen en avonturen vast te leggen. Deze reis leidt je naar enkele indrukwekkende winterbergen en biedt een goede kennismaking met Schotland in de winter. Op de eerste dag leer je  een aantal basisvaardigheden voor winter mountaineering. De dagen daarop staan in de teken van het zoeken naar de schoonheid die Schotland te bieden heeft in winter en een aantal toppen beklimmen.\n</p><p>&nbsp;\n</p><p><u>Moeilijkheidsgraad:</u> 3/4. Wandelen in de winter kan zwaar zijn, vooral in sneeuw- en ijzige omstandigheden. Een goede conditie is vereist.\n</p><p><u>Accommodatie:</u> Self-catering (bijv. jeugdherberg/luxe stacaravan)\n</p><p>\n</p><p><br></p><p>Dag 1: Ophalen van het vliegveld en rijden naar het beginpunt van de eerste wandeling. We zullen eerst een materiaalcontrole uitvoeren en dan op pad gaan. Onderweg zullen we een paar keer stoppen voor instructie en om enkele vaardigheden te oefenen. 'S Avonds zijn we terug in onze accommodatie.\n</p><p>Dag 2, 3 &amp; 4: Proef de Schotse bergen en ontdek waarom Schotland in de winter een fantastisch avontuur is, als we een aantal nabijgelegen Munro's bezoeken. Op dag 4 kunnen gaan we naar het vliegveld na een geschikte ochtendwandeling.\n</p><p>De locatie en exacte invulling van dit avontuur is afhankelijk van de heersende omstandigheden. \n</p><p>Mogelijke gebieden: Drumochter (in de buurt van Dalwhinnie), Ben Lawers-range, Glen Lyon, Glen Lochy.\n</p><p><br></p><p><a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\" target=\"_blank\">BOEK NU!</a></p></blockquote>",
+          "text": "<blockquote><p><br></p><p><b style=\"text-decoration: underline;\">Introductie Schotse Hooglanden in winter</b> (20Wi01)</p><p>21-24 feb / 28 feb-2 mar\n</p><p>Kosten: 420 euro\n</p><p>\n</p><p><br></p><p>De winter in Schotland is een heel ander beest dan de zomer. Het wordt vaak gezocht door ervaren Alpinisten en terecht ook. De winter is de tijd om enkele van de meest adembenemende landschappen en avonturen vast te leggen. Deze reis leidt je naar enkele indrukwekkende winterbergen en biedt een goede kennismaking met Schotland in de winter. Op de eerste dag leer je  een aantal basisvaardigheden voor winter mountaineering. De dagen daarop staan in de teken van het zoeken naar de schoonheid die Schotland te bieden heeft in winter en een aantal toppen beklimmen.\n</p><p>&nbsp;\n</p><p><u>Moeilijkheidsgraad:</u> 3/4. Wandelen in de winter kan zwaar zijn, vooral in sneeuw- en ijzige omstandigheden. Een goede conditie is vereist.\n</p><p><u>Accommodatie:</u> Self-catering (bijv. jeugdherberg/luxe stacaravan)\n</p><p>\n</p><p><br></p><p>Dag 1: Ophalen van het vliegveld en rijden naar het beginpunt van de eerste wandeling. We zullen eerst een materiaalcontrole uitvoeren en dan op pad gaan. Onderweg zullen we een paar keer stoppen voor instructie en om enkele vaardigheden te oefenen. 'S Avonds zijn we terug in onze accommodatie.\n</p><p>Dag 2, 3 &amp; 4: Proef de Schotse bergen en ontdek waarom Schotland in de winter een fantastisch avontuur is, als we een aantal nabijgelegen Munro's bezoeken. Op dag 4 kunnen gaan we naar het vliegveld na een geschikte ochtendwandeling.\n</p><p>De locatie en exacte invulling van dit avontuur is afhankelijk van de heersende omstandigheden. \n</p><p>Mogelijke gebieden: Drumochter (in de buurt van Dalwhinnie), Ben Lawers-range, Glen Lyon, Glen Lochy.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
           "_anchor": "content2-2e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "54",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/winter-851x275.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"http://www.mountainmission.eu/BookingFormNL_20.docx\">BOEK NU!</a>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2f"
         }
       ]
     },
